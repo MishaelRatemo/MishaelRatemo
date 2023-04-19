@@ -26,7 +26,7 @@
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>  
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
+<!--     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a> -->
     <a href="https://angular.io/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/angularjs.png"/></a>
     <a href="https://www.figma.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/figma--v1.png"/></a>
 </p>
