@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" margin="auto" height="500px" src="https://avatars.githubusercontent.com/u/75485447?v=4" height="125px"/></a>
 
-<h1 align="center">Hi <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" />, I'm Marcos</h1>
-<h3 align="center">I'm a passionate and self driven Software developer from Nairobi Kenya.</h3>
+<h1 align="center">Hi <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png" />, I'm Mishael</h1>
+<h3 align="center">I'm a passionate and self driven Software Engineer from Nairobi Kenya.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -10,9 +10,9 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://marcosochieng.netlify.app/)**
 
-- 📫 How to reach me *marcosgav80@gmail.com*
+- 📫 How to reach me ratemomishael@gmail.com*
 
-- ⚡ Fun fact *I play video games and watch lots of movies during my free time.*
+- ⚡ Fun fact *I love exploring and reading books  and nature walks in the woods during my free time.*
 
 ## 🚀 Languages and Tools:
 
@@ -35,16 +35,16 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/Marcos8060/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Marcos8060&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/MishaelRatemo/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MishaelRatemo&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Marcos8060/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Marcos8060&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Marcos8060/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos8060&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/MishaelRatemo/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MishaelRatemo&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/MishaelRatemo/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MishaelRatemo&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -52,7 +52,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Marcos8060/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Marcos8060&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/v/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MishaelRatemo&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -60,14 +60,14 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/marcos-ochieng-a1a536206/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/MarcosOchieng8"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.linkedin.com/in/mishael-mosoti-37b786161/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<!-- <a href = "https://twitter.com/MarcosOchieng8"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> -->
 <!-- <a href = "https://www.youtube.com/channel/UC-NXT1lYAOPa3lrgWXqvuHA"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a> -->
 
 </p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Marcos8060">
+    <img src="https://komarev.com/ghpvc/?username=MishaelRatemo">
 </a>
-<a href="https://github.com/Marcos8060?tab=followers"><img src="https://img.shields.io/github/followers/Marcos8060?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/MishaelRatemo?tab=followers"><img src="https://img.shields.io/github/followers/MishaelRatemo?label=Followers&style=social" alt="GitHub Badge"></a>
